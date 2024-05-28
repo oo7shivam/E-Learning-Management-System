@@ -37,7 +37,7 @@ A learning management and online assessment system for academic education.
 1. Clone the project
 
 ```bash
-git clone https://github.com/nz-m/eLMS-SWE.git
+git clone https://github.com/oo7shivam/E-Learning-Management-System
 ```
 
 2. Go to the project directory
@@ -55,6 +55,8 @@ python -m venv env
 ```bash
 env\Scripts\activate
 ```
+For bash terminal 
+source ./env/Scripts/activate
 
 4. Install dependencies
 
@@ -94,9 +96,3 @@ Now the project should be running on http://127.0.0.1:8000/
 
 Login as admin and add some courses, teacher and students.
 
-Demo : https://youtu.be/NyL2ajUNxYk
-
-## License
-
-[The MIT License (MIT)](https://github.com/nz-m/eLMS-SWE/blob/main/LICENCE)
-E learning
